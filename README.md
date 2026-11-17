@@ -26,17 +26,6 @@
 - 👥 **Teams that ship.** Leading and mentoring engineers, and bridging product, design, backend, QA and DevOps.
 - 📱 **Web and mobile.** React Native and Flutter apps alongside the web, sharing one design system.
 
-### 📈 Impact highlights
-
-| | |
-|---|---|
-| 🧠 **RAG assistant** | 1,000–1,500 users and **48% adoption** within 6 months |
-| ⚡ **Release process** | Release time down **65%**, incidents down **38%** |
-| 🔌 **API platform** | Adopted by **12 engineering teams** and **16 external clients** |
-| 🕒 **Support automation** | GPT-powered workflows saving **25 hours/week** |
-| 🛠️ **Platform modernization** | Leading **12 engineers** over 16–20 weeks, every milestone hit, **zero critical** post-launch defects |
-| 👥 **Team leadership** | Managed and coordinated a **20-person** web and mobile team at Tradeling |
-
 ### 🧰 Tech stack
 
 <p align="center">
