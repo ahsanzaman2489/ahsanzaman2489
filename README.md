@@ -52,18 +52,9 @@
   <img src="https://img.shields.io/badge/SSR_%2F_CSR-5EA1FF?style=flat-square" alt="SSR and CSR" />
 </p>
 
-### 💼 Where I've worked
+### 🎓 Education
 
-| Company | Role | Years |
-|---|---|---|
-| **Krank Tech** | Lead Frontend Engineer / Team Lead | Dec 2024 – now |
-| **Binance** | Senior Frontend, KYC platform | Mar 2022 – May 2024 |
-| **Tradeling** | Front-end & Mobile Lead | Jan 2020 – Feb 2022 |
-| **Eyewa** | Senior Front-end | Apr 2018 – Dec 2019 |
-| **Etisalat** | Senior Front-end | Jun 2017 – Apr 2018 |
-| **Creative Chaos** | Front-end | Oct 2013 – May 2017 |
-
-🎓 **Bachelor of Computer Science (BSCS)**, Sindh University, 2009 – 2013
+**Bachelor of Computer Science (BSCS)**, Sindh University, 2009 – 2013
 
 ### 📊 GitHub activity
 
