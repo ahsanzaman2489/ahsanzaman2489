@@ -52,10 +52,6 @@
   <img src="https://img.shields.io/badge/SSR_%2F_CSR-5EA1FF?style=flat-square" alt="SSR and CSR" />
 </p>
 
-### 🎓 Education
-
-**Bachelor of Computer Science (BSCS)**, Sindh University, 2009 – 2013
-
 ### 📊 GitHub activity
 
 <p align="center">
